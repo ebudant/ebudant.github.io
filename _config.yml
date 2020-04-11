@@ -16,3 +16,5 @@ google-analytics:
   id: "UA-112921058-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
+
+theme: jekyll-theme-cayman
